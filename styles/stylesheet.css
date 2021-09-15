@@ -1,0 +1,177 @@
+@charset "utf-8";
+.bg1 {
+	background-color: #BCCAD3;
+	background-image: url(../images/bw07.jpg);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	height: 100px;
+	width: 544px;
+}
+.bg2 {
+	background-image: url(../images/2211.jpg);
+	background-repeat: repeat-x;
+	background-color: #F6F7F9;
+	background-position: bottom;
+	height: 300px;
+	width: 544px;
+}
+.bg3 {
+	background-image: url(../images/bw21.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	background-color: #E8EDF1;
+}
+.bottom {
+	vertical-align: middle;
+	position: fixed;
+	background-position: right bottom;
+	bottom: 0px;
+	top: 65px;
+	background-image: url(../images/ser.gif);
+	background-repeat: no-repeat;
+}
+
+.hr2 {
+	color: #00CCFF;
+	border-top-style: dashed;
+	border-right-style: dashed;
+	border-bottom-style: dashed;
+	border-left-style: dashed;
+}
+
+.bg4 {
+	background-image: url(../images/bw01.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #E2EFF7;
+}
+.bg13 {
+	background-image: url(../images/olovka.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-color: #C3D0E0;
+}
+.email2 {
+	position: relative;
+	bottom: -4px;
+}
+
+input {
+}
+.gh {
+	height: auto;
+	width: 530px;
+}
+.dgm {
+	height: 22px;
+	width: 75px;
+	background-image: url(../images/grd.jpg);
+	background-repeat: repeat-x;
+	border: 1px solid #B3C4CE;
+}
+
+li {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	list-style-type: disc;
+	color: #333333;
+	list-style-position: outside;
+}
+.hh {
+	position: relative;
+	bottom: -2px;
+}
+
+button {
+	width: 25px;
+}
+input {
+	background-image: url(../images/grd2.jpg);
+	background-color: #E7F0EF;
+	border: 1px solid #B3C4CE;
+	height: 20px;
+	width: 200px;
+}
+textarea {
+	height: auto;
+	width: 250px;
+	background-image: url(../images/grd3.jpg);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	background-color: #EFF3F6;
+	border: 1px solid #B3C4CE;
+}
+
+
+.bg5 {
+	background-image: url(../images/bw17.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #FFFFFF;
+	width: 226px;
+	height: 0px;
+}
+.sdsd {
+	width: 130px;
+}
+
+.bg9 {
+	background-color: #E6E9EE;
+	background-image: url(../images/row.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.bg12 {
+	background-image: url(../images/olovka.jpg);
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-color: #BFD1DF;
+}
+
+.linija {
+	background-color: #BCCAD3;
+}
+
+.bg10 {
+	background-image: url(../images/bg10.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	position: relative;
+	width: 530;
+	background-color: #DFE7EA;
+	overflow: hidden;
+}
+
+
+
+.size {
+	width: 511px;
+	position: relative;
+	top: 0px;
+	right: -10px;
+}
+.size2 {
+	height: 103px;
+	width: 226px;
+}
+
+.bg6 {
+	background-image: url(../images/bw12.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 103px;
+	width: 121px;
+	background-color: #F6F7F9;
+}
+.bg7 {
+	background-image: url(../images/bw19.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 226px;
+	height: 228px;
+}
+.bg8 {
+	background-image: url(../images/bw23.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+}

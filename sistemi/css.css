@@ -1,0 +1,71 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #F6DAC5;
+}
+body,td,th {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #333333;
+}
+a:link {
+	color: #FF9900;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FF9900;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFCC99;
+}
+a:active {
+	text-decoration: none;
+	color: #FF9900;
+}
+.bg2 {
+	height: 100%;
+	width: 100%;
+}
+.shadow {
+	border: 1px dashed #CCC;
+	top: 0px;
+	padding: 5px;
+}
+
+.lijevo {
+	background-image: url(images/img_02.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.naslov {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #F46624;
+}
+.sivi {
+	font-family: Tahoma;
+	font-size: 9px;
+	color: #999999;
+}
+.sij {
+	background-image: url(images/img_41.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+
+.bgr {
+	background-image: url(images/img_26.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+
+.desno {
+	background-image: url(images/img_07.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}

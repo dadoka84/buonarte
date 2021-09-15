@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Info</title>
+    <description>Info</description>
+    <link>http://www.buonarte.com/</link>
+    <language>en</language>
+    <pubDate>Fri, 12 Dec 2008 13:00:57 +0000</pubDate>
+    <generator>TYPOlight webCMS</generator>
+    <item>
+      <title>Akcija Mini web</title>
+      <description><![CDATA[<img style="float: left; margin-left: 5px; margin-right: 5px;" src="tl_files/music_academy/web1.jpg" alt="" width="100" height="100" /><br /><br /><br />Mini web stranica<a href="index.php/web.html"><img style="margin-left: 5px; margin-right: 5px;" src="tl_files/music_academy/bllt.jpg" alt="" width="9" height="9" /></a>]]></description>
+      <link>http://www.buonarte.com/index.php/reader/items/webs.html</link>
+      <pubDate>Tue, 05 Jan 2010 08:30:00 +0000</pubDate>
+      <guid>http://www.buonarte.com/index.php/reader/items/webs.html</guid>
+    </item>
+  </channel>
+</rss>
